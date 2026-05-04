@@ -119,6 +119,6 @@ http://127.0.0.1:8000/docs
 
 ---
 
-## ⭐ Acknowledgement
+##  Acknowledgement
 
 Dataset inspired by real-world credit card fraud detection datasets and machine learning techniques.
