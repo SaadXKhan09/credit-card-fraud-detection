@@ -1,6 +1,6 @@
-# 💳 Credit Card Fraud Detection System
+# Credit Card Fraud Detection System
 
-## 🚀 Overview
+##  Overview
 
 This project is a full-stack machine learning application that detects fraudulent credit card transactions in real-time. It combines a trained ML model with a FastAPI backend and a user-friendly web interface.
 
@@ -8,7 +8,7 @@ The system allows users to input transaction details and instantly receive a fra
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 * **Frontend:** HTML, CSS, JavaScript
 * **Backend:** FastAPI (Python)
@@ -18,7 +18,7 @@ The system allows users to input transaction details and instantly receive a fra
 
 ---
 
-## ⚙️ How It Works
+## How It Works
 
 1. User enters transaction details (Time, Amount, V1–V28 features).
 2. Frontend sends data to the backend via API.
@@ -28,16 +28,16 @@ The system allows users to input transaction details and instantly receive a fra
 
 ---
 
-## 🔧 Installation & Setup
+##  Installation & Setup
 
-### 1️⃣ Clone the repository
+###  Clone the repository
 
 ```bash
 git clone https://github.com/SaadXKhan09/credit-card-fraud-detection.git
 cd credit-card-fraud-detection
 ```
 
-### 2️⃣ Run Backend
+###  Run Backend
 
 ```bash
 cd backend
@@ -51,7 +51,7 @@ Backend will run at:
 http://127.0.0.1:8000
 ```
 
-### 3️⃣ Run Frontend
+### Run Frontend
 
 * Open `frontend/index.html` using Live Server
   **OR**
@@ -69,17 +69,17 @@ http://127.0.0.1:5500
 
 ---
 
-## 🔌 API Endpoints
+##  API Endpoints
 
-### ▶️ POST /predict
+###  POST /predict
 
 * Predicts whether a transaction is fraudulent
 
-### ▶️ GET /health
+### GET /health
 
 * Checks if API is running
 
-### ▶️ GET /
+### GET /
 
 * Basic API status
 
@@ -91,7 +91,7 @@ http://127.0.0.1:8000/docs
 
 ---
 
-## 📌 Features
+##  Features
 
 * Real-time fraud detection
 * Risk score generation
@@ -101,7 +101,7 @@ http://127.0.0.1:8000/docs
 
 ---
 
-## ⚠️ Limitations
+##  Limitations
 
 * Requires manual input of V1–V28 features
 * Basic UI (can be improved)
@@ -109,7 +109,7 @@ http://127.0.0.1:8000/docs
 
 ---
 
-## 🔮 Future Improvements
+## Future Improvements
 
 * Improve UI/UX design
 * Automate feature extraction (remove V1–V28 input)
