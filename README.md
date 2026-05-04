@@ -50,6 +50,12 @@ Backend will run at:
 ```
 http://127.0.0.1:8000
 ```
+Backend Testing (Swagger UI)
+
+You can test the backend API directly using FastAPI’s built-in Swagger UI:
+```
+ http://127.0.0.1:8000/docs
+```
 
 ### Run Frontend
 
