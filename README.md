@@ -70,7 +70,7 @@ python -m http.server 5500
 Frontend will run at:
 
 ```
-http://127.0.0.1:5500
+credit-card-fraud-detection-icohkphmn.vercel.app
 ```
 
 ---
