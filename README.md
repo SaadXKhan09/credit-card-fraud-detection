@@ -92,7 +92,7 @@ http://127.0.0.1:5500
 Swagger UI:
 
 ```
-http://127.0.0.1:8000/docs
+ https://credit-card-fraud-detection-i247.onrender.com/docs
 ```
 
 ---
