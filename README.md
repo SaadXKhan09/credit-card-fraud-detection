@@ -48,13 +48,13 @@ uvicorn main:app --reload
 Backend will run at:
 
 ```
-http://127.0.0.1:8000
+https://credit-card-fraud-detection-i247.onrender.com
 ```
 Backend Testing (Swagger UI)
 
 You can test the backend API directly using FastAPI’s built-in Swagger UI:
 ```
- http://127.0.0.1:8000/docs
+ https://credit-card-fraud-detection-i247.onrender.com/docs
 ```
 
 ### Run Frontend
